@@ -1,7 +1,6 @@
 # Project 0x07 - More Pointers, Arrays, and Strings in C
 
 This project comprises several C files, each implementing different functions. Here's an overview of each file's purpose:
-
 1. **0-memset.c:** This file contains a function that fills a block of memory with a specified constant byte.
 
 2. **1-memcpy.c:** Within this file, you'll find a function that copies a specified number of bytes from one memory area to another.
