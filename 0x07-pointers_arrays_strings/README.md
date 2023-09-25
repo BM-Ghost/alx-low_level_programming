@@ -22,12 +22,9 @@ This project comprises several C files, each implementing different functions. H
 
 Additionally, there is a header file named **main.h** that includes the prototypes for these functions, and the file **_putchar.c** contains the implementation of the `_putchar` function.
 
-For an advanced task labeled "no. 9," you can find the password for the [crackme2](https://github.com/holbertonschool/0x06.c) executable in the file **101-crackme_password**. To access this password, follow these steps:
-
+For advanced task 9:
 1. Open the file using `vi -b 101-crackme_password`.
 2. Once the vi window is open, avoid using insert mode and type `:set binary` followed by Enter.
 3. Type `:set noeol` and hit Enter.
 4. Enter insert mode (press 'i') and type the password, for example, "abc123."
 5. Exit insert mode (press 'Esc') and save the file by typing `:wq` and hitting Enter.
-
-After following these steps, you can proceed with other tasks like adding the changes to Git, etc. Please note the additional instructions for installing the required library if necessary.
