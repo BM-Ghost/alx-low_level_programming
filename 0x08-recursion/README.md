@@ -37,4 +37,4 @@ This repository contains a collection of C files, each with a specific function 
 
 ## GitHub Repository
 
-You can access the code and any updates or additional files on my GitHub repository: [Meshack Bwire's GitHub](https://github.com/BM-Ghost/alx-low_level_programming/0x08-recursion)
+You can access the code and any updates or additional files on my GitHub repository: [Meshack Bwire's GitHub](https://github.com/BM-Ghost/alx-low_level_programming/tree/main/0x08-recursion)
