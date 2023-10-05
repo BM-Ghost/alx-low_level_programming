@@ -1,0 +1,12 @@
+**General**
+- Permitted editors: vi, vim, emacs
+- Compilation on Ubuntu 20.04 LTS using gcc with specific options (-Wall -Werror -Wextra -pedantic -std=gnu89)
+- Files must end with a newline character
+- A mandatory README.md file at the root of the project folder
+- Code had to adhere to the Betty style and was checked using betty-style.pl and betty-doc.pl
+- Prohibition of global variables
+- Limit of 5 functions per file
+- Only allowed C standard library functions: malloc, free, and exit
+- Use of _putchar was allowed
+- _putchar.c did not need to be pushed, as it was provided
+- The prototypes of all functions and the _putchar function had to be included in a header file named main.h
